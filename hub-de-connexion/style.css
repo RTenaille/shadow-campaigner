@@ -3,6 +3,21 @@
     padding: 0px;
 }
 /*********************************GENERAL********************************************/
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+ /***font-family: 'Merriweather', serif;***/
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+ /***font-family: 'Zen Dots', cursive;***/
+
+:root{
+  --darkred : #680e18;
+  --red : #a00819;
+  --white : #e8dadc;
+  --black : #0e0808;
+  --yellow : #f9b00b;
+  --darkgrey : #201616;
+  --grey : #443b3a;
+}
+
 /***********************************BODY*********************************************/
 /************************************HEADER******************************************/
 /**************************************MAIN******************************************/
